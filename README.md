@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Reach me on twitter: [@divyabadala](https://www.linkedin.com/in/divya-badala-80942a1a9/);
+- 📫 Reach me on linkedin: [@divyabadala](https://www.linkedin.com/in/divya-badala-80942a1a9/);
 - 📫 Or email: <a href="mailto:badala.work@gmail.com">Badala</a> 
 
 <h3>🛠 Tech Stack</h3>
